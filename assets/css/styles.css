@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700,900');
+
+/* colors
+
+black:      #200122
+reddish:    #6f0000
+blue grad:  #141e30
+            #243b55
+Ocean grad: #2c3e50
+            #4calaf
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Lato", san-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #777;
+}
+
+.header {
+    height: 95vh;
+    background-image: url(../images/web-design-900.jpg);
+    background-size: cover;
+    background-position: top;
+}
+
+
+
